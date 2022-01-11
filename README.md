@@ -1,4 +1,4 @@
-# 👋 /bin/bash -p
+# 👋 Hello Devs
 ![](https://komarev.com/ghpvc/?username=SusmitaSen681&label=PROFILE+VIEWS)
 
 
