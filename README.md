@@ -4,6 +4,8 @@
 
 -  🌱 I’m currently learning Mobile Application Development Using Flutter
 -  🎓 Computer Science Engineering Student
+- 📫 How to reach me: sensusmita681@gmail.com
+- 😄 Pronouns: Tech Geek
 
  
 <h2>🔥 Streak Stats</h2>
